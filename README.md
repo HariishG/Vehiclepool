@@ -27,4 +27,5 @@ Due to time constraints the solution does not feature the end result to work on 
 - CSS3
 - JavaScript
 - Python
+- PHP
 - MySQL
